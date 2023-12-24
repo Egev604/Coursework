@@ -1,0 +1,204 @@
+C:\Users\egev\source\repos\PC_club\PC_club\bin\Debug\PC_club.exe.config
+C:\Users\egev\source\repos\PC_club\PC_club\bin\Debug\PC_club.exe
+C:\Users\egev\source\repos\PC_club\PC_club\bin\Debug\PC_club.pdb
+C:\Users\egev\source\repos\PC_club\PC_club\bin\Debug\MySql.Data.dll
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.csproj.AssemblyReference.cache
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.Form1.resources
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.Properties.Resources.resources
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.csproj.GenerateResource.cache
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.csproj.CoreCompileInputs.cache
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.csproj.CopyComplete
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.exe
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.pdb
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.glavnay.resources
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.staff.resources
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.vedenieBD.resources
+C:\Users\egev\source\repos\PC_club\PC_club\bin\Debug\System.ValueTuple.dll
+C:\Users\egev\source\repos\PC_club\PC_club\bin\Debug\System.ValueTuple.xml
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.autorizacia.resources
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.client.resources
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.rate.resources
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.pc.resources
+C:\Users\egev\source\repos\PC_club\PC_club\obj\Debug\PC_club.arendaPC.resources
+D:\Перистов\PC_club\PC_club\bin\Debug\PC_club.exe.config
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.exe
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.pdb
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.csprojResolveAssemblyReference.cache
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.arendaPC.resources
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.autorizacia.resources
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.client.resources
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.Form1.resources
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.glavnay.resources
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.pc.resources
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.Properties.Resources.resources
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.rate.resources
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.staff.resources
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.vedenieBD.resources
+D:\Перистов\PC_club\PC_club\obj\Debug\PC_club.csproj.GenerateResource.Cache
+D:\Перистов\PC_club\PC_club\bin\Debug\PC_club.exe
+D:\Перистов\PC_club\PC_club\bin\Debug\PC_club.pdb
+D:\Перистов\PC_club\PC_club\bin\Debug\System.ValueTuple.dll
+D:\Перистов\PC_club\PC_club\bin\Debug\System.ValueTuple.xml
+D:\Перистов\15.03\PC_club\PC_club\bin\Debug\PC_club.exe.config
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.exe
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.pdb
+D:\Перистов\15.03\PC_club\PC_club\bin\Debug\PC_club.exe
+D:\Перистов\15.03\PC_club\PC_club\bin\Debug\PC_club.pdb
+D:\Перистов\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.dll
+D:\Перистов\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.xml
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.csprojResolveAssemblyReference.cache
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.arendaPC.resources
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.autorizacia.resources
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.client.resources
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.Form1.resources
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.glavnay.resources
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.pc.resources
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.Properties.Resources.resources
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.rate.resources
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.staff.resources
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.vedenieBD.resources
+D:\Перистов\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.GenerateResource.Cache
+D:\Перистов\15.03\PC_club\PC_club\bin\Debug\MySql.Data.dll
+D:\Перистов\15.03\PC_club\PC_club\bin\Debug\MySqlBackup.dll
+D:\15.03\PC_club\PC_club\bin\Debug\PC_club.exe.config
+D:\15.03\PC_club\PC_club\bin\Debug\PC_club.exe
+D:\15.03\PC_club\PC_club\bin\Debug\PC_club.pdb
+D:\15.03\PC_club\PC_club\bin\Debug\MySql.Data.dll
+D:\15.03\PC_club\PC_club\bin\Debug\MySqlBackup.dll
+D:\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.dll
+D:\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.xml
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.AssemblyReference.cache
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.arendaPC.resources
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.autorizacia.resources
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.client.resources
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.Form1.resources
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.pc.resources
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.Properties.Resources.resources
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.rate.resources
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.staff.resources
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.vedenieBD.resources
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.GenerateResource.cache
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.CoreCompileInputs.cache
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.CopyComplete
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.exe
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.pdb
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.Otchet.resources
+D:\15.03\PC_club\PC_club\obj\Debug\PC_club.Главная.resources
+D:\peristov\15.03\PC_club\PC_club\bin\Debug\PC_club.exe.config
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.exe
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.pdb
+D:\peristov\15.03\PC_club\PC_club\bin\Debug\PC_club.exe
+D:\peristov\15.03\PC_club\PC_club\bin\Debug\PC_club.pdb
+D:\peristov\15.03\PC_club\PC_club\bin\Debug\MySql.Data.dll
+D:\peristov\15.03\PC_club\PC_club\bin\Debug\MySqlBackup.dll
+D:\peristov\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.dll
+D:\peristov\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.xml
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.csprojResolveAssemblyReference.cache
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.arendaPC.resources
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.autorizacia.resources
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.client.resources
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.Form1.resources
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.Главная.resources
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.Otchet.resources
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.pc.resources
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.Properties.Resources.resources
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.rate.resources
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.staff.resources
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.vedenieBD.resources
+D:\peristov\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.GenerateResource.Cache
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\bin\Debug\PC_club.exe.config
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.exe
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.pdb
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\bin\Debug\PC_club.exe
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\bin\Debug\PC_club.pdb
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\bin\Debug\MySql.Data.dll
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\bin\Debug\MySqlBackup.dll
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.dll
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.xml
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.csprojResolveAssemblyReference.cache
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.arendaPC.resources
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.autorizacia.resources
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.client.resources
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Form1.resources
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Главная.resources
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Otchet.resources
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.pc.resources
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Properties.Resources.resources
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.rate.resources
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.staff.resources
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.vedenieBD.resources
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.GenerateResource.Cache
+D:\Перистов\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.sale.resources
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\bin\Debug\PC_club.exe.config
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\bin\Debug\PC_club.exe
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\bin\Debug\PC_club.pdb
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\bin\Debug\MySql.Data.dll
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\bin\Debug\MySqlBackup.dll
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.dll
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.xml
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.AssemblyReference.cache
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.arendaPC.resources
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.autorizacia.resources
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.client.resources
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Form1.resources
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Главная.resources
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Otchet.resources
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.pc.resources
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Properties.Resources.resources
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.rate.resources
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.sale.resources
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.staff.resources
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.vedenieBD.resources
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.GenerateResource.cache
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.CoreCompileInputs.cache
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.CopyComplete
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.exe
+D:\15.03\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.pdb
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\PC_club.exe.config
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.exe
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.pdb
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\PC_club.exe
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\PC_club.pdb
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\MySql.Data.dll
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\MySqlBackup.dll
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.dll
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.xml
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.csprojResolveAssemblyReference.cache
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.arendaPC.resources
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.autorizacia.resources
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.client.resources
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Form1.resources
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Главная.resources
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Otchet.resources
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.pc.resources
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Properties.Resources.resources
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.rate.resources
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.sale.resources
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.staff.resources
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.vedenieBD.resources
+D:\Перистов\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.GenerateResource.Cache
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\PC_club.exe.config
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\PC_club.exe
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\PC_club.pdb
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\MySql.Data.dll
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\MySqlBackup.dll
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.dll
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\bin\Debug\System.ValueTuple.xml
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.AssemblyReference.cache
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.arendaPC.resources
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.autorizacia.resources
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.client.resources
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Form1.resources
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Главная.resources
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Otchet.resources
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.pc.resources
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.Properties.Resources.resources
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.rate.resources
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.sale.resources
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.staff.resources
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.vedenieBD.resources
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.GenerateResource.cache
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.CoreCompileInputs.cache
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.csproj.CopyComplete
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.exe
+D:\Курсововой КОнец\15.05.23\10.05.2023\15.03\PC_club\PC_club\obj\Debug\PC_club.pdb
